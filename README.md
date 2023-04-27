@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**NAS2pwn/NAS2pwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm currently working as an EdTech Software Engineer for Supaero
+🥷 I'm also working on a confidential project
 
-Here are some ideas to get you started:
+🌱 My skills are :
+ - Front-end dev with Vue.js
+ - Mobile dev with React Native
+ - Back-end dev
+ - Blockchain dev on Ethereum and Tezos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ I wanna act in the EdTech field and build positive products
+
+### Salut les français 👋
+
+🔭 Je suis actuellement ingénieur EdTech à Supaero
+🥷 Je travaille en parallèle sur un produit encore secret...
+
+🌱 Mes compétences :
+ - Dev front-end avec Vue.js
+ - Dev mobile avec React Native
+ - Dev back-end (node.js, django, PHP...)
+ - Dev blockchain sur Ethereum ou Tezos
+
+⚡ Je souhaite agir pour l'éducation et construire des produits ayant un impact positif sur le monde
