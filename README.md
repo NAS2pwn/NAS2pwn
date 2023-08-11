@@ -6,4 +6,4 @@
 
 🌱 My skills are : Vue.js, React Native, PHP, Moodle dev, Java, OCaml
 
-⚡ I wanna build positive products and act for education
+⚡ I wanna build positive products and contribute to EdTech projects
