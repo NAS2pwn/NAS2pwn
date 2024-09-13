@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-I'm a french Software Engineering creating apps and learning ML Engineering :)
+I'm a french Software Engineer creating apps and learning ML Engineering :)
+
+Some OCaml implementations coming soon...
